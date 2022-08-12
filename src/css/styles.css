@@ -18,3 +18,12 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.search-img {
+  width: 50px;
+  height: 30px;
+}
+
+.country-list {
+  list-style: none;
+}
